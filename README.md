@@ -1,4 +1,4 @@
-# https-github.com-MayannkTiwari-Leetcode-DSA-Questions
+# Leetcode-DSA-Questions
 A collection of LeetCode questions to ace the coding interview! 
 
 <!---LeetCode Topics Start-->
