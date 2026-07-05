@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
