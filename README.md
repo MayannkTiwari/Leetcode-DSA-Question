@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
