@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
