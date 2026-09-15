@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
