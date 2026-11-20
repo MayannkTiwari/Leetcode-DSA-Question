@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2747-count-zero-request-servers](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MayannkTiwari/https-github.com-MayannkTiwari-Leetcode-DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
